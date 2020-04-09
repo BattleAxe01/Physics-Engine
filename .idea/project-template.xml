@@ -1,0 +1,3 @@
+<template>
+  <input-field default="com.machado">IJ_BASE_PACKAGE</input-field>
+</template>
